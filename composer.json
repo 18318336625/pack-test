@@ -1,0 +1,17 @@
+{
+    "name": "monolog/monolog",
+    "description": "这个一个词儿是\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b一个测试包",
+    "autoload": {
+        "psr-4": {
+            "Monolog\\Monolog\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Berg.Zou",
+            "email": "343144626@qq.com"
+        }
+    ],
+    "require": {}
+}
